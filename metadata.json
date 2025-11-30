@@ -1,0 +1,5 @@
+{
+  "name": "ExcelListAgent",
+  "description": "Agente inteligente para procesar, limpiar y consolidar listas de inventario desde Excel a PDF.",
+  "requestFramePermissions": []
+}
